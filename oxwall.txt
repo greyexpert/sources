@@ -11,6 +11,7 @@ eheader
 pcarousel
 mcompose
 devtools
+demo
 
 
 [plugins github.com/greyexpert]
