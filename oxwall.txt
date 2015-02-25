@@ -1,5 +1,10 @@
 <include oxwall>
 
+[plugins github.com/skalfa]
+usercredits = user_credits
+membership
+moderation = premoderation
+
 [plugins bitbucket.org/greyexpert]
 uheader
 gheader
