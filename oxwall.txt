@@ -10,6 +10,8 @@ utags
 eheader
 pcarousel
 mcompose
+devtools
+
 
 [plugins github.com/greyexpert]
 questions
