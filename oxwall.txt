@@ -1,1 +1,20 @@
 <include oxwall>
+
+[plugins bitbucket.org/greyexpert]
+uheader
+gheader
+equestions
+attachments
+ucarousel
+utags
+eheader
+pcarousel
+mcompose
+
+[plugins github.com/greyexpert]
+questions
+hint
+uavatars
+snippets
+fgift
+vkconnect
