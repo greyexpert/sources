@@ -1,1 +1,27 @@
+[plugins github.com/skalfa]
+usercredits = user_credits
+membership
+moderation = premoderation
 
+[plugins bitbucket.org/greyexpert]
+uheader
+gheader
+equestions
+attachments
+ucarousel
+utags
+eheader
+pcarousel
+mcompose
+flists
+devtools
+demo
+
+
+[plugins github.com/greyexpert]
+questions
+hint
+uavatars
+snippets
+fgift
+vkconnect
