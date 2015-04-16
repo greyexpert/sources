@@ -1,2 +1,2 @@
 <include oxwall-dev>
-<include include/my>
+<include include/my-plugins>
