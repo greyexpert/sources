@@ -1,2 +1,2 @@
 <include skadate-test>
-<include ./include/my-plugins>
+<include include/my-plugins>
