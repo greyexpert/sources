@@ -1,2 +1,2 @@
 <include oxwall-test>
-<include include/my-plugins>
+<include ./include/my-plugins>
