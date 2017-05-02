@@ -12,11 +12,11 @@ wget https://raw.githubusercontent.com/oxwall/owr/master/owr.py && sudo mv ./owr
 
 Oxwall
 ```
-owr.py clone https://raw.githubusercontent.com/greyexpert/sources/master/oxwall oxwall
+owr.py clone -u [github user] -p https://raw.githubusercontent.com/greyexpert/sources/master/oxwall oxwall
 ```
 
 Skadate
 ```
-owr.py clone https://raw.githubusercontent.com/greyexpert/sources/master/skadate skadate
+owr.py clone -u [github user] -p https://raw.githubusercontent.com/greyexpert/sources/master/skadate skadate
 ```
   
